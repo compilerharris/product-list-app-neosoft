@@ -42,6 +42,7 @@ this is a simple react application that fetches a list of products from the Neos
 
 ## Folder Structure
 
+```bash
 product-list-app-neosoft/
 ├── src/
 │   ├── components/
@@ -53,6 +54,7 @@ product-list-app-neosoft/
 │   └── index.css
 ├── package.json
 └── README.md
+```
 
 ## Stay in touch
 
