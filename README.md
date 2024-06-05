@@ -13,7 +13,7 @@ this is a simple react application that fetches a list of products from the Neos
 2. Navigate to the project directory:
 
    ```bash
-   cd product-list-app
+   cd product-list-app-neosoft
    ```
 
 3. Install dependencies:
@@ -43,7 +43,6 @@ this is a simple react application that fetches a list of products from the Neos
 ## Folder Structure
 
 product-list-app-neosoft/
-│
 ├── src/
 │   ├── components/
 │   │   ├── List.js
@@ -52,7 +51,6 @@ product-list-app-neosoft/
 │   ├── App.css
 │   ├── index.js
 │   └── index.css
-│
 ├── package.json
 └── README.md
 
